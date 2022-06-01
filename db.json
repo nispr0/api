@@ -1,17 +1,17 @@
 {
 	"users": [{
 		"id": "1234abc",
-		"username": "bear",
+		"username": "donald",
 		"score": 55,
 		"active": true
 	}, {
 		"id": "xyz123",
-		"username": "schmeb",
+		"username": "daisy",
 		"score": 550,
 		"active": false
 	}, {
 		"id": "qwerty",
-		"username": "jed",
+		"username": "scrooge",
 		"score": 553,
 		"active": true
 	}],
